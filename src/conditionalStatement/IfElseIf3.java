@@ -7,7 +7,7 @@ public class IfElseIf3 {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter Student marks");
 		int marks=sc.nextInt();
-	   if(marks>=91 && marks<100)
+	   if(marks>=91 && marks<=100)
 	   {
 		  System.out.println("Excellent") ;
 		  
