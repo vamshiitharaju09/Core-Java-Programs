@@ -20,7 +20,7 @@ public class narrowing {
 	  float e=7.5f;
 	  long f=(long)e;
 	  System.out.println(f);
-	  
+	   
 	  
   }
 }
