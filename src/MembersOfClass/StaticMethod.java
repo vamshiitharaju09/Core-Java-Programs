@@ -1,7 +1,4 @@
 package MembersOfClass;
-
-import Methods.Demo;
-
 //Any method which is declared with help of static keyword is known as "static method"
 public class StaticMethod {
 	public static void view()
@@ -22,4 +19,4 @@ public class StaticMethod {
 		StaticMethod.view();
 		StaticMethod.print();
 	}
-}
+} 
