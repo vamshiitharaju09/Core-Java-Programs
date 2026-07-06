@@ -16,9 +16,9 @@ public class ConstructorChaining {
 		this();
 		System.out.println("RCB");
 	}
-	ConstructorChaining(double a)
+	ConstructorChaining(double b)
 	{
-		this(10);
+		this(2);
 		System.out.println("PBK");
 	}
 	public static void main(String[]args)
