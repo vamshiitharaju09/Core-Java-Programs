@@ -11,7 +11,7 @@ public class studentDriver {
 		System.out.println("----------");
 		student s2=new student();
 		s2.setName("Ramya");
-		s2.setAge(24);
+		s2.setAge(-2);
 		System.out.println(s2.getName());
 		System.out.println(s2.getAge());
 	}
