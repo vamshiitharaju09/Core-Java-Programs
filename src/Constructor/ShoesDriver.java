@@ -11,8 +11,6 @@ public class ShoesDriver {
 		System.out.println("Enter Shoe Color");
 		String color=sc.next();
 		Shoes s1=new Shoes(brand,price,color);
-		Shoes s2=new Shoes(brand,price,color);
-		s2.print();
 		s1.print();
 		
 	}
