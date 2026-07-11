@@ -8,7 +8,7 @@ public class HirarchicalDriver {
 		System.out.println("--------------------------");
 		HirarchicalLaptop h2=new HirarchicalLaptop("Apple",120000.0,128);
 		h2.printLaptop();
-		System.out.println("--------------------------");
+		System.out.println("--------------------------"); 
 		 HirarchicalMobile h3=new  HirarchicalMobile("Apple",85000,20);
 		 h3.printMobile();
 	}
