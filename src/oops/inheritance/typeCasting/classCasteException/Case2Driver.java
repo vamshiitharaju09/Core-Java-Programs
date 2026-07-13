@@ -9,3 +9,5 @@ public class Case2Driver {
 	}
 
 }
+
+//NOTE:-In java we can avoid class cast exception by using "instance operator".
