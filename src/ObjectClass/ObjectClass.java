@@ -11,6 +11,18 @@ public class ObjectClass {
 		System.out.println(o1);
 		System.out.println(o2);
 	}
+//Methods present inside object class
+//  i).public String toString(){}
+//  ii).public boolean equals(object obj){}
+// iii).public int hashcode(){}
+// iv).public final void notify(){}
+// v).public void notifyAll(){}
+// vi).public final void wait(){}
+// vii).public final void wait(long a){}
+// viii).public final wait(long a,int b){}
+// ix).public class <E> getclass(){}
+// x).protected object clone(){}
+// xi)protected void finalize(){}
 	
 
 }
