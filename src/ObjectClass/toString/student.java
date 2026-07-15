@@ -1,6 +1,8 @@
 package ObjectClass.toString;
 //After override toString()
 public class student {
+	
+	@Override
 	 public String toString()
 	 {
 		 return "student@123";
