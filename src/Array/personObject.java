@@ -11,6 +11,7 @@ public class personObject {
 	public String toString()
 	{
 		return "Name : "+name+"\n Age : "+age+"\n";
+		
 	}
 	public static void main(String[]args)
 	{
