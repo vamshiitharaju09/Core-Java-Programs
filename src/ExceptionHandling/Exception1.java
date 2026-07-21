@@ -2,7 +2,7 @@ package ExceptionHandling;
 //Exception is a event or interption which leads to stop the execution  and remaining set of instructions are not get executed is known as "Exception".
 //All the exception will occurred only during runtime.
 import java.util.Scanner;
-public class Exception {
+public class Exception1 {
 	public static void main(String[]args)
 	{
 		System.out.println("Start");
