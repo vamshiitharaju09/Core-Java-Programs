@@ -11,3 +11,5 @@ public class NullPointException {
 	}
 
 }
+
+//NOTE:In java, if we access non-static members by initializing null value into the object reference variable we will get "NullPointException".
